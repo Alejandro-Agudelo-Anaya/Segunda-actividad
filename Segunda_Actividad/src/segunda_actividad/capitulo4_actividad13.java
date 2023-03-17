@@ -1,3 +1,4 @@
+package segunda_actividad;
 import java.util.Scanner;
 public class Inicio {
     
