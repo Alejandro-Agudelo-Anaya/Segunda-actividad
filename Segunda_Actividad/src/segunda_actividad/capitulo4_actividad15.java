@@ -41,7 +41,7 @@ public class capitulo4_actividad15 {
         }
         else{
             if(peso1 == peso3){
-                if (peso2 < peso4 ){
+                if (peso2 > peso4 ){
                     System.out.println("La esfera 2 peso mas que las otras ");
                 }
                 else{
@@ -49,7 +49,7 @@ public class capitulo4_actividad15 {
                 }
             }
             else{
-                if (peso1 < peso4 ){
+                if (peso1 > peso4 ){
                     System.out.println("La esfera 1 peso mas que las otras ");
                 }
                 else{
