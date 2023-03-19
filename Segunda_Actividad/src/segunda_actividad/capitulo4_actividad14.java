@@ -23,24 +23,24 @@ public class capitulo4_actividad14 {
         porcentaje = ventasgeneral*33/100;
         
         if(ventas1>porcentaje) {
-			System.out.println("El salario de los vendedores de departamento 1 es: "+salario*1.2);
+		System.out.println("El salario de los vendedores de departamento 1 es: "+salario*1.2);
         }
-		else {
-			System.out.println("El salario de los vendedores de departamento 1 es: "+salario);
-		}
+	else {
+		System.out.println("El salario de los vendedores de departamento 1 es: "+salario);
+	}
 		
-		if(ventas2>porcentaje) {
-			System.out.println("El salario de los vendedores de departamento 2 es: "+salario*1.2);
+	if(ventas2>porcentaje) {
+		System.out.println("El salario de los vendedores de departamento 2 es: "+salario*1.2);
         }
-		else {
-			System.out.println("El salario de los vendedores de departamento 2 es: "+salario);
-		}
+	else {
+		System.out.println("El salario de los vendedores de departamento 2 es: "+salario);
+	}
 		
-		if(ventas3>porcentaje) {
-			System.out.println("El salario de los vendedores de departamento 3 es: "+salario*1.2);
+	if(ventas3>porcentaje) {
+		System.out.println("El salario de los vendedores de departamento 3 es: "+salario*1.2);
         }
-		else {
-			System.out.println("El salario de los vendedores de departamento 3 es: "+salario);
+	else {
+		System.out.println("El salario de los vendedores de departamento 3 es: "+salario);
 		}
     }
 }
